@@ -1,6 +1,7 @@
 # Desafio Customer Success Balancing
 
 Este é um desafio de programação que envolve a distribuição de clientes entre Customer Successes (CS) com base em seus scores.
+Pode ser testado pelo link: https://replit.com/@DassuenCabral/Desafio-SEA-Tecnologia#main.rb
 
 ## Descrição
 
